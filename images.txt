@@ -1,4 +1,6 @@
-postgres
+easzlab/kubeasz:3.6.4
+easzlab/kubeasz-ext-bin:1.10.1
+easzlab/kubeasz-k8s-bin:v1.29.0
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
